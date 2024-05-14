@@ -1,0 +1,14 @@
+
+.card {
+    border: solid .1px grey !important;
+    border-radius: 0px !important;
+    margin: 10px;
+    border-radius: 1px !important;
+    margin: 5px;
+    text-align: center;
+
+}
+
+.card {
+text-align: center;
+}
